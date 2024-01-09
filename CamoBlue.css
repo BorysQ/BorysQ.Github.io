@@ -87,7 +87,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(https://i.imgur.com/8ncERKA.png) no-repeat center;
+    background: url(https://i.imgur.com/VX398BE.png) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
@@ -120,7 +120,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://i.imgur.com/isYKyDf.png);
+    background: url(https://i.imgur.com/HGkt6Gz.png);
     width: 25px;
     height: 38px;
     opacity: 0;
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://i.imgur.com/ETBZnWE.png);
+    background: url(https://i.imgur.com/TrV3ueP.png);
 }
 
 .ds4 .button.pressed {
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://i.imgur.com/ooQyJ0Q.png);
+    background: url(https://i.imgur.com/MQUcaoB.png);
     position: absolute;
 }
 
