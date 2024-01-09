@@ -157,7 +157,8 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://i.imgur.com/TrV3ueP.png);
+    /*black button background: url(https://i.imgur.com/TrV3ueP.png); */
+    background: url(https://i.imgur.com/TAYeDyx.png);
 }
 
 .ds4 .button.pressed {
@@ -229,7 +230,8 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://i.imgur.com/MQUcaoB.png);
+    /*black button  background: url(https://i.imgur.com/MQUcaoB.png); */
+    background: url(https://i.imgur.com/SyI1KYK.png);
     position: absolute;
 }
 
