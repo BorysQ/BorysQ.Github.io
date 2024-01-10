@@ -1,5 +1,5 @@
 .controller.ds4 {
-    background: url(https://i.imgur.com/RSobwEz.png);
+    background: url(https://i.imgur.com/tmVTNbk.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -7,7 +7,7 @@
 }
 
 .ds4.disconnected {
-    background: url(https://i.imgur.com/umDTQIr.png);
+    background: url(https://i.imgur.com/YCu3omU.png);
 }
 
 .ds4.disconnected div {
@@ -24,7 +24,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://i.imgur.com/15P63WG.png);
+    background: url(https://i.imgur.com/aQ482bO.png);
     opacity: 0;
 }
 
@@ -40,7 +40,7 @@
 .ds4 .bumper {
     width: 108px;
     height: 35px;
-    background: url(https://i.imgur.com/AmcI6AA.png) no-repeat;
+    background: url(https://i.imgur.com/KQ9wiNO.png) no-repeat;
     opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(https://i.imgur.com/Cc88uu5.png) no-repeat center;
+    background: url(https://i.imgur.com/L1jyxYm.png) no-repeat center;
 }
 
 .ds4 .meta {
@@ -87,7 +87,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(https://i.imgur.com/8ncERKA.png) no-repeat center;
+    background: url(https://i.imgur.com/dySHhel.png) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
@@ -120,7 +120,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://i.imgur.com/isYKyDf.png);
+    background: url(https://i.imgur.com/pNkUB7N.png);
     width: 25px;
     height: 38px;
     opacity: 0;
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://i.imgur.com/ETBZnWE.png);
+    background: url(https://i.imgur.com/OFtdybh.png);
 }
 
 .ds4 .button.pressed {
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://i.imgur.com/sQhUkAF.png);
+    background: url(https://i.imgur.com/q7tvUol.png);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://i.imgur.com/ooQyJ0Q.png);
+    background: url(https://i.imgur.com/SoJASxI.png);
     position: absolute;
 }
 
