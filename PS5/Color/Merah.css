@@ -268,8 +268,13 @@ background-position: 0 -70px;
 }
 
 .ds4 .face.pressed {
-    /* margin-top: 5px; */
-    background-position-y: 62px;
+    background-position-y: 63px;
+}
+.ds4 .face.right.pressed {
+    background-position-y: 60px;
+}
+.ds4 .face.left.pressed {
+    background-position-y: 60px;
 }
 
 .ds4.half {
