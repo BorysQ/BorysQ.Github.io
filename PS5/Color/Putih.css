@@ -120,7 +120,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://i.imgur.com/pNkUB7N.png);
+    background: url(https://i.imgur.com/oZUvlJk.png);
     width: 25px;
     height: 38px;
     opacity: 0;
@@ -161,7 +161,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .button.pressed {
-    background-position-y: 55px;
+    background-position-y: 56px;
     /* margin-top: 5px; */
 }
 
