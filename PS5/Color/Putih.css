@@ -78,12 +78,12 @@
 }
 
 .ds4 .meta {
-    width: 54px;
-    height: 42px;
+    width: 56px;
+    height: 43px;
     background-size: 100%;
     position: absolute;
-    left: 377px;
-    bottom: 227px;
+    left: 374px;
+    bottom: 228px;
 }
 
 .ds4 .meta.pressed {
@@ -115,14 +115,14 @@ background-position: 0 -70px;
     position: absolute;
     width: 352px;
     height: 46px;
-    top: 139px;
-    left: 204px;
+    top: 137px;
+    left: 202px;
 }
 
 .ds4 .back, .ds4 .start {
     background: url(https://i.imgur.com/oZUvlJk.png);
-    width: 25px;
-    height: 38px;
+    width: 29px;
+    height: 44px;
     opacity: 0;
 }
 
@@ -234,19 +234,19 @@ background-position: 0 -70px;
 }
 
 .ds4 .face.up, .ds4 .face.down {
-    width: 48px;
-    height: 59px;
+    width: 50px;
+    height: 62px;
 }
 
 .ds4 .face.left, .ds4 .face.right {
-    width: 59px;
-    height: 48px;
+    width: 62px;
+    height: 50px;
 }
 
 .ds4 .face.up {
     left: 38px;
     top: -4px;
-    background-position: -48px -0px;
+    background-position: -51px -0px;
 }
 
 .ds4 .face.down {
