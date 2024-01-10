@@ -245,31 +245,31 @@ background-position: 0 -70px;
 
 .ds4 .face.up {
     left: 38px;
-    top: -4px;
-    background-position: -51px -0px;
+    top: 0px;
+    background-position: -52px -0px;
 }
 
 .ds4 .face.down {
-    left: 39px;
-    bottom: -5.5px;
+    left: 38px;
+    bottom: -12px;
     background-position: 0px 0;
 }
 
 .ds4 .face.left {
-    top: 40px;
+    top: 46px;
     left: -6px;
-    background-position: 120px 0;
+    background-position: 123px -3px;
 }
 
 .ds4 .face.right {
-    top: 40px;
+    top: 43px;
     right: -5px;
-    background-position: 59px 0;
+    background-position: 62px -3px;
 }
 
 .ds4 .face.pressed {
     /* margin-top: 5px; */
-    background-position-y: 59px;
+    background-position-y: 62px;
 }
 
 .ds4.half {
